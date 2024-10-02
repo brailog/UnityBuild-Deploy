@@ -40,7 +40,7 @@ set ITCHIO_USER="default-user"
 set ITCHIO_GAME="default-game-name"
 ```
 
-#### **Bash Script (`.sh`) Configuration**:
+#### **Bash Script (`.sh`) underdevelopment **:
 ```bash
 export UNITY_PATH="/path/to/Unity/Editor/Unity"
 export PROJECT_PATH="project-path"
