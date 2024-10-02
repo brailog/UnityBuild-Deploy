@@ -5,7 +5,6 @@ This project was developed as a result of a technical challenge proposed by the 
 
 This project provides a fully automated solution for building Unity projects and deploying them to Itch.io. It is designed to streamline the build process for developers working on Unity projects, reducing manual interventions and potential errors. The solution includes a **Bash script**, a **Batch script**, and a **Python script** that manage both the **build** and **deployment** processes. The available scripts allow seamless integration with multiple environments and platforms.
 
-
 ### Key Features:
 - Automated multi-scene builds for Unity projects.
 - Configurable build and deployment settings.
@@ -13,6 +12,9 @@ This project provides a fully automated solution for building Unity projects and
 - Command-line interface with options for build-only, deploy-only, or both.
 - Optional integration with Python for advanced automation.
 - Compatible with Windows, Linux, and macOS.
+  
+## Automation release 
+[Release demo list](https://github.com/brailog/UnityBuild-Deploy/wiki/Demonstration-release-list)
 
 ## Installation
 
